@@ -1,2 +1,5 @@
 # cursos_alura_DS
-Repositório criado com o objetivo de incluir os notebooks e materiais referentes aos cursos realizados na plataforma Alura, sobre conteúdos de Data Science
+
+**Conteúdos do repositório - Data Science / Análise de dados / Machine Learning**
+
+Repositório criado com o objetivo de incluir os notebooks e materiais referentes aos cursos realizados na plataforma Alura.
